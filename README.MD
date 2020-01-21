@@ -1,1 +1,1 @@
-Footballkik is a chat application for football fans.
+# Football Chat App is a chat application for football fans.
